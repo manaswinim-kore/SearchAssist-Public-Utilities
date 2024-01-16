@@ -1,11 +1,11 @@
 {
   "host": "https://searchassist-pilot.kore.ai",
-  "auth_token": "bearer KSugMk5g_2Or_jqB3h9630xPzNVdrF7pog1lRxk-nRuSeWwFb97V5nGZiRgvmzCE",
-  "stream_id": "st-6f4c5bec-b5f5-5238-be40-b039d08f83de",
-  "search_index_id": "sidx-50828260-cc3c-58cf-bdcf-a0eaa9232cd7",
-  "index_pipeline_id": "fip-aee44c4e-9109-5ee8-8011-ec44d7d81c8b",
-  "query_pipeline_id": "fqp-dbd5df8a-ea88-5afc-bd4e-11e084d8aaee",
+  "auth_token": "bearer 5FbJY1Lv9OSi8ezsZ5d2vcRDl1lYXZ38oUUGXe3a3cxoLoFC64bjRAxAd4mDKQD4",
+  "stream_id": "st-eec5e696-b014-508b-8b42-876229fd620d",
+  "search_index_id": "sidx-d3aaaad0-ae54-5cd7-9784-ffc588df716d",
+  "index_pipeline_id": "fip-19b73b8f-8b60-53b6-a417-d7502bb67109",
+  "query_pipeline_id": "fqp-c17a95d5-fac9-5ccf-820e-39241795456c",
   "embedings_model": false,
-  "user_id": "u-19c460f1-759b-5d34-9828-e8fda75e034b",
+  "user_id": "u-5ebe06ac-3cb8-5a25-948e-50dd50573709",
   "start_index": 0
 }
